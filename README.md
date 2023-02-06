@@ -1,0 +1,1 @@
+A simple handwritten digit recognizer trained on MNIST dataset.
